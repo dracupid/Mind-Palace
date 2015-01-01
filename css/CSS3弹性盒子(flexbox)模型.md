@@ -94,25 +94,25 @@ CSS 3 弹性盒子模型
 ## 5. 各版本属性的对应关系
 
 |版本|属性||||||
-| ----- | ------ |
+| ----- | ------ |------ |------ |------ |------ |------ |
 |flex   |justify-content|flex-start|center|flex-end|space-between|space-around|
 |flexbox|flex-pack|start|同上|end|justify|distribute|
 |box    |box-pack|同上|同上|同上|同上|N/A|
 
 |版本|属性||||||
-| ----- | ------ |
+| ----- | ------ |------ |------ |------ |------ |------ |
 |flex   |align-items|flex-start|center|flex-end|baseline|stretch|
 |flexbox|flex-align|start|同上|end|同上|同上|
 |box    |box-align|同上|同上|同上|同上|同上|
 
 |版本|属性|||||||
-| ----- | ------ |
+| ----- | ------ |------ |------ |------ |------ |------ |------ |
 |flex   |align-self|auto|flex-start|center|flex-end|baseline|stretch|
 |flexbox|flex-item-align|同上|start|同上|end|同上|同上|
 |box    |N/A|同上|同上|同上|同上|同上|同上|
 
-|版本|属性|
-| ----- | ------ |
+|版本|属性|||||||
+| ----- | ------ |------ |------ |------ |------ |------ |------ |
 |flex   |align-content|flex-start|center|flex-end|space-between|space-around|stretch|
 |flexbox|flex-line-pack|start|同上|end|justify|distribute|stretch|
 |box    |N/A|同上|同上|同上|同上|同上|同上|
@@ -124,20 +124,20 @@ CSS 3 弹性盒子模型
 |box    |box-ordinal-group|
 
 |版本|属性||
-| ----- | ------ |
+| ----- | ------ |------ |
 |flex   |flex|flex-grow flex-shrink? or flex-basis
 |flexbox|flex|pos-flex neg-flex? or preferred-size
 |box    |box-flex| number
 
 |版本|属性|||||
-| ----- | ------ |
+| ----- | ------ |------ |------ |------ |------ |
 |flex   |flex-direction|row|row-reverse|column|column-reverse|
 |flexbox|flex-direction|同上|同上|同上|同上|
 |box    |box-orient|horizontal|horizontal|vertical|vertical|
 ||box-direction|normal|reverse|normal|reverse|
 
 |版本|属性||||
-| ----- | ------ |
+| ----- | ------ |------ |------ |------ |
 |flex   |flex-wrap|nowrap|wrap|wrap-reverse|
 |flexbox|flex-wrap|同上|同上|同上|
 |box    |box-lines|single|multiple|N/A|
