@@ -5,7 +5,8 @@ ECMAScript compatibility table
 - [ECMAScript 7](http://kangax.github.io/compat-table/es7/)
 - [non-standard](http://kangax.github.io/compat-table/non-standard/)
 
-ECMAScript 5 compatibility on mobile browsers
+###Addition: ECMAScript 5 compatibility on mobile browsers
+*source: Baidu MCO-SE-WEB*
 
 - IOS safari >= 3.1
 - Android browser >= 2.1
