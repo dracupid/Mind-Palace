@@ -1,8 +1,5 @@
 Mind Palace
 ====================
-
-All kinds of selected articles.
-
-<br/><br/><br/>
+My articles and collecton.
 
 ***Dracupid, 2014.***
