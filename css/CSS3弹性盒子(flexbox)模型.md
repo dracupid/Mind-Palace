@@ -93,19 +93,19 @@ CSS 3 弹性盒子模型
 
 ## 5. 各版本属性的对应关系
 
-|版本|属性|
+|版本|属性||||||
 | ----- | ------ |
 |flex   |justify-content|flex-start|center|flex-end|space-between|space-around|
 |flexbox|flex-pack|start|同上|end|justify|distribute|
 |box    |box-pack|同上|同上|同上|同上|N/A|
 
-|版本|属性|
+|版本|属性||||||
 | ----- | ------ |
 |flex   |align-items|flex-start|center|flex-end|baseline|stretch|
 |flexbox|flex-align|start|同上|end|同上|同上|
-|box    |box-align|同上|同上|同上|同上|同上|同上|
+|box    |box-align|同上|同上|同上|同上|同上|
 
-|版本|属性|
+|版本|属性|||||||
 | ----- | ------ |
 |flex   |align-self|auto|flex-start|center|flex-end|baseline|stretch|
 |flexbox|flex-item-align|同上|start|同上|end|同上|同上|
@@ -123,20 +123,20 @@ CSS 3 弹性盒子模型
 |flexbox|flex-order|
 |box    |box-ordinal-group|
 
-|版本|属性|
+|版本|属性||
 | ----- | ------ |
 |flex   |flex|flex-grow flex-shrink? or flex-basis
 |flexbox|flex|pos-flex neg-flex? or preferred-size
 |box    |box-flex| number
 
-|版本|属性|
+|版本|属性|||||
 | ----- | ------ |
 |flex   |flex-direction|row|row-reverse|column|column-reverse|
 |flexbox|flex-direction|同上|同上|同上|同上|
 |box    |box-orient|horizontal|horizontal|vertical|vertical|
 ||box-direction|normal|reverse|normal|reverse|
 
-|版本|属性|
+|版本|属性||||
 | ----- | ------ |
 |flex   |flex-wrap|nowrap|wrap|wrap-reverse|
 |flexbox|flex-wrap|同上|同上|同上|
@@ -144,7 +144,7 @@ CSS 3 弹性盒子模型
 
 ## 相关阅读
 1. [W3C 标准](http://www.w3.org/TR/css3-flexbox/)
-2. [Designing CSS Layouts With Flexbox Is As Easy As Pie - David Storey](http://www.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) | [译文](http://www.w3cplus.com/css3/designing-css-layout-with-flexbox.html)
-3. [Flexbox — Fast Track to Layout Nirvana?](http://dev.opera.com/articles/view/flexbox-basics/) | [译文](http://www.w3cplus.com/css3/flexbox-basics.html)
-4. [Dive into Flexbox](http://bocoup.com/weblog/dive-into-flexbox/) | [译文](http://www.w3cplus.com/blog/666.html)
-5. [W3C Wiki](http://www.w3.org/html/ig/zh/wiki/Css3-flexbox/zh-hans)
+2. [W3C Wiki](http://www.w3.org/html/ig/zh/wiki/Css3-flexbox/zh-hans)
+3. [Designing CSS Layouts With Flexbox Is As Easy As Pie - David Storey](http://www.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) | [译文](http://www.w3cplus.com/css3/designing-css-layout-with-flexbox.html)
+4. [Flexbox — Fast Track to Layout Nirvana?](http://dev.opera.com/articles/view/flexbox-basics/) | [译文](http://www.w3cplus.com/css3/flexbox-basics.html)
+5. [Dive into Flexbox](http://bocoup.com/weblog/dive-into-flexbox/) | [译文](http://www.w3cplus.com/blog/666.html)
