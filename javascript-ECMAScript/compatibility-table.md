@@ -1,5 +1,7 @@
 ECMAScript compatibility table
 ====================
+#### 2015.01.01
+-------------
 - [ECMAScript 5](http://kangax.github.io/compat-table/es5/)
 - [ECMAScript 6](http://kangax.github.io/compat-table/es6/)
 - [ECMAScript 7](http://kangax.github.io/compat-table/es7/)

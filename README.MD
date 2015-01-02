@@ -2,4 +2,4 @@ Mind Palace
 ====================
 My articles and collecton.
 
-***Dracupid, 2014.***
+***Dracupid, 2015.***
