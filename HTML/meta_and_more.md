@@ -88,7 +88,7 @@ Equal to HTML 4.01 Transitional, but allows the use of frameset content.
 ```html
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 ```
-360浏览器：使用极速（webkit）内核核。
+360浏览器：使用极速（webkit）内核。
 ```html
 <meta name="renderer" content="webkit">
 ```
