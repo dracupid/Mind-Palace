@@ -144,6 +144,7 @@ CSS 3 弹性盒子模型
 
 ## 相关阅读
 0. [Flex Bugs](https://github.com/philipwalton/flexbugs)
+0. [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
 1. [W3C 标准](http://www.w3.org/TR/css3-flexbox/)
 2. [W3C Wiki](http://www.w3.org/html/ig/zh/wiki/Css3-flexbox/zh-hans)
 3. [Designing CSS Layouts With Flexbox Is As Easy As Pie - David Storey](http://www.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) | [译文](http://www.w3cplus.com/css3/designing-css-layout-with-flexbox.html)
